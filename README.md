@@ -1,2 +1,5 @@
-# lxc-template-core-alpine
-Alpine Linux base image designed for use as a base image in other images.
+# Linux Container Template Core Alpine
+
+* [American English](./en_US.md)
+* [Español](./es.md)
+* [Português Brasil](./pt_BR.md) 
